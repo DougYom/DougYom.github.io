@@ -64,12 +64,15 @@ img
     display: flex;
     flex-wrap: wrap;
     align-items: baseline;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .projects-tyle
 {
-    width: 50%;
+    width: 48%;
+    border: 2px black solid;
+    border-radius: 50px;
+    padding-bottom: 20px;
 }
 
 hr
