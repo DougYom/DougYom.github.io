@@ -1,0 +1,85 @@
+.nav
+{
+    text-decoration: none;
+    color: rgb(17, 159, 202);
+    font-size: xx-large;
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+}
+body
+{
+    background-color: beige;
+}
+
+.header
+{
+    position: fixed;
+    background-color: #424242;
+    border-radius: 10ex;
+    border-bottom: 1ex solid #424242;
+    vertical-align: sub;
+    text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+#about
+{
+    text-align: center;
+    font-size: x-large;
+}
+
+.about-content
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left
+{
+    width: 40%;
+}
+
+.right
+{
+    width: 60%;
+}
+
+img
+{
+    width: 50%;
+}
+
+#projects
+{
+    text-align: center;
+    font-size: x-large;
+}
+
+.projects-content
+{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.projects-tyle
+{
+    width: 50%;
+}
+
+hr
+{
+    border: 1px solid #424242;
+    width: 50%;
+}
+
+#contact
+{
+    text-align: center;
+    font-size: x-large;
+}
