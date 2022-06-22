@@ -60,6 +60,12 @@ header
 .right
 {
     width: 60%;
+    text-align: justify;
+}
+
+.right h3
+{
+    text-align: center;
 }
 
 img
