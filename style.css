@@ -52,6 +52,11 @@ header
     width: 40%;
 }
 
+.left img
+{
+    border-radius: 8%;
+}
+
 .right
 {
     width: 60%;
