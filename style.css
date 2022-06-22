@@ -19,7 +19,7 @@ body
     background-color: beige;
 }
 
-header
+.header
 {
     position: fixed;
     background-color: #424242;
